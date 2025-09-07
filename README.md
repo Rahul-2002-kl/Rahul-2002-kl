@@ -3,6 +3,24 @@ Hello world, this is my profile
 <h1 align="center">Hi 👋, I'm RAHUL KL</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+🔭 I’m currently working on I’m currently working on embedded systems projects in the aviation domain
+
+🌱 I’m currently learning I’m currently learning low-level programming in C/C++ for real-time applications
+
+👯 I’m looking to collaborate on I’m looking to collaborate on embedded systems and aviation domain projects
+
+🤝 I’m looking for help with I’m looking for help with deepening my expertise in embedded systems and real-time operating systems
+
+👨‍💻 All of my projects are available at https://github.com/Rahul-2002-kl?tab=repositories
+
+📝 I regularly write articles on [I regularly write articles on my learnings in software design and real-time systems](I regularly write articles on my learnings in software design and real-time systems)
+
+💬 Ask me about Ask me about aviation domain software (Trent XWB, T700, T900 engines)
+
+📫 How to reach me rahul2mahesh156@gmail.com
+
+📄 Know about my experiences [linkedin.com/in/kl-rahul-0bb366255]
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1EZBPSSi2E/ ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul1_6_kl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kl-rahul-0bb366255) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kl99008) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@rahulkl2586) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahul2mahesh156@gmail.com) 
 
