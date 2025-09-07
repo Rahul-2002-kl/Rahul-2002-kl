@@ -7,7 +7,7 @@ Hello world, this is my profile
 
 🌱 I’m currently learning low-level programming in C/C++ for real-time applications
 
-👯  I’m looking to collaborate on embedded systems and aviation domain projects
+👯  I’m looking to collaborate and work on embedded systems and aviation domain projects
 
 🤝 I’m looking for work which help with deepening my expertise in embedded systems and real-time operating systems
 
