@@ -9,7 +9,7 @@ Hello world, this is my profile
 
 👯  I’m looking to collaborate on embedded systems and aviation domain projects
 
-🤝 I’m looking for help with deepening my expertise in embedded systems and real-time operating systems
+🤝 I’m looking for work which help with deepening my expertise in embedded systems and real-time operating systems
 
 👨‍💻 All of my projects are available at https://github.com/Rahul-2002-kl?tab=repositories
 
