@@ -13,8 +13,6 @@ Hello world, this is my profile
 
 👨‍💻 All of my projects are available at https://github.com/Rahul-2002-kl?tab=repositories
 
-📝 I regularly write articles on [I regularly write articles on my learnings in software design and real-time systems](I regularly write articles on my learnings in software design and real-time systems)
-
 💬 Ask me about Ask me about aviation domain software (Trent XWB, T700, T900 engines)
 
 📫 How to reach me rahul2mahesh156@gmail.com
