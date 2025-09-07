@@ -3,7 +3,7 @@ Hello world, this is my profile
 <h1 align="center">Hi 👋, I'm RAHUL KL</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-🔭 I’m currently working on I’m currently working on embedded systems projects in the aviation domain
+🔭 I’m currently working on embedded systems projects in the aviation domain
 
 🌱 I’m currently learning I’m currently learning low-level programming in C/C++ for real-time applications
 
