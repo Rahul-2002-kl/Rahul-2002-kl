@@ -19,8 +19,6 @@ Hello world, this is my profile
 
 📄 Know about my experiences [linkedin.com/in/kl-rahul-0bb366255]
 
-## GitHub Trophies
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul-2002-kl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
