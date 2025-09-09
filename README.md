@@ -3,6 +3,8 @@ Hello world, this is my profile
 <h1 align="center">Hi 👋, I'm RAHUL KL</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 🔭 I’m currently working on -- **I’m currently working on embedded systems projects in the aviation domain**
 
 - 🌱 I’m currently learning -- **I’m currently learning low-level programming in C/C++ for real-time applications**
@@ -11,9 +13,11 @@ Hello world, this is my profile
 
 - 🤝 I’m looking for help with -- **I’m looking for help with deepening my expertise in embedded systems and real-time operating systems**
 
-- 👨‍💻 All of my projects are available -- at [https://github.com/Rahul-2002-kl?tab=repositories](https://github.com/Rahul-2002-kl?tab=repositories)
-
+- 👨‍💻 All of my projects are available -- at (https://github.com/Rahul-2002-kl)
+- 
 - 📫 How to reach me -- **rahul2mahesh156@gmail.com**
+- 
+- ⚡ **Fun fact:** My code runs on C, and I run on coffee + 10k steps ☕🏃
 
 📄 Know about my experiences [linkedin.com/in/kl-rahul-0bb366255]
 
