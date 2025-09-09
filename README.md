@@ -14,9 +14,9 @@ Hello world, this is my profile
 - 🤝 I’m looking for help with -- **I’m looking for help with deepening my expertise in embedded systems and real-time operating systems**
 
 - 👨‍💻 All of my projects are available -- at (https://github.com/Rahul-2002-kl)
-- 
+  
 - 📫 How to reach me -- **rahul2mahesh156@gmail.com**
-- 
+  
 - ⚡ **Fun fact:** My code runs on C, and I run on coffee + 10k steps ☕🏃
 
 📄 Know about my experiences [linkedin.com/in/kl-rahul-0bb366255]
